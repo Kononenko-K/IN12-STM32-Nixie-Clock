@@ -46,3 +46,8 @@ All the respective GNDs should be connected together.
 
 The project is made in Keil v5 with HAL so it should be easy to migrate to any other compatible STM32 lqfp-48 controller if needed. As mentioned before it may be required to adjust Boost converter duty cycle, so it can be made by editing a PWM macro in [main.c](/Firmware/Src/main.c) in range from 0 to 159. High duty cycle values may damage the device. There are also a few macros that adjust the deley between switching the indicators, so they also may need to be trimmed to make tubes switch fast enough but without phantom glowing of other tubes nearby. There's also a feature in the code that prevents cathode poisoning by quickly switching over all the tubes every 5 minutes.
 
+## License
+
+- The **Software** and **Firmware** in this project are licensed under the [MIT License](/Firmware/LICENSE), with the exception of portions of the firmware code that are copyrighted by STMicroelectronics; such portions are subject to the original licensing terms provided by STMicroelectronics.
+- The **Hardware** in this project is licensed under the [CERN Open Hardware Licence Permissive (CERN OHL-P)](/Hardware/LICENSE).
+
