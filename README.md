@@ -48,6 +48,6 @@ The project is made in Keil v5 with HAL so it should be easy to migrate to any o
 
 ## License
 
-- The **Software** and **Firmware** in this project are licensed under the [MIT License](/Firmware/LICENSE), with the exception of portions of the firmware code that are copyrighted by STMicroelectronics; such portions are subject to the original licensing terms provided by STMicroelectronics.
+- The **Firmware** in this project is licensed under the [MIT License](/Firmware/LICENSE), with the exception of portions of the firmware code that are copyrighted by STMicroelectronics; such portions are subject to the original licensing terms provided by STMicroelectronics.
 - The **Hardware** in this project is licensed under the [CERN Open Hardware Licence Permissive (CERN OHL-P)](/Hardware/LICENSE).
 
