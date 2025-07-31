@@ -11,7 +11,7 @@ STM32 Nixie clock project with four Soviet IN-12 indicators.
 
 <br/>
 <p align="center">
-    <img src="https://github.com/Kononenko-K/IN12-STM32-Nixie-Clock/blob/main/pics/mainboard.jpg">
+    <img width="900" src="https://github.com/Kononenko-K/IN12-STM32-Nixie-Clock/blob/main/pics/mainboard.jpg">
 </p>
 
 This project provides a complete solution for building an STM32-powered 
@@ -22,7 +22,7 @@ via a Type-C connector and features an internal high voltage generator.
 
 <br/>
 <p align="center">
-    <img src="https://github.com/Kononenko-K/IN12-STM32-Nixie-Clock/blob/main/pics/panoramic.jpg">
+    <img width="900" src="https://github.com/Kononenko-K/IN12-STM32-Nixie-Clock/blob/main/pics/panoramic.jpg">
 </p>
 
 ### [**Display Module**](/Hardware/nixie%20display/project.pdf)
