@@ -4,7 +4,7 @@ STM32 Nixie clock project with four Soviet IN-12 indicators.
 
 <br/>
 <p align="center">
-    <img src="https://github.com/Kononenko-K/IN12-STM32-Nixie-Clock/blob/main/pics/header.jpg">
+    <img width="600" src="https://github.com/Kononenko-K/IN12-STM32-Nixie-Clock/blob/main/pics/header.jpg">
 </p>
 
 ## Overview
